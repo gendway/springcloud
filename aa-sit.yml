@@ -11,10 +11,6 @@ spring:
   jpa: 
     database: MySQL
     show-sql: true
-  data:
-    mongodb:
-      host: 192.168.211.130
-      database: recruitdb
 eureka:
   client:
     service-url:
